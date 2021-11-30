@@ -1,0 +1,14 @@
+{
+  "type": "module",
+  "scripts": {
+    "test": "tap --no-coverage -R list"
+  },
+  "dependencies": {
+    "make-fetch-happen": "^9.1.0",
+    "tar": "^6.1.11",
+    "tmp-promise": "^3.0.3"
+  },
+  "devDependencies": {
+    "tap": "^15.1.5"
+  }
+}
